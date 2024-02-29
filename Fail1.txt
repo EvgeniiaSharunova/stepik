@@ -1,4 +1,5 @@
 Hello, world!
 Hi
+New Conflict
 New Line
 New commit
