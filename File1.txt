@@ -1,6 +1,6 @@
 Hello, world!
-Hi
 New Conflict
 New Line
 New commit
 new branch line
+New line gui interface
